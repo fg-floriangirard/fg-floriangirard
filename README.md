@@ -2,7 +2,7 @@
 
 <br>       
 
-I'm Florian, a passionate and dedicated individual with a love for problem-solving and a strong interest in technology, that's why I decided to study programming.
+I'm Florian, a passionate and dedicated individual with a love for problem-solving and a strong interest in technology.
 
 <br>
 
