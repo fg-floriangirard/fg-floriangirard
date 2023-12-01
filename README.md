@@ -2,7 +2,7 @@
 
 <br>       
 
-I'm Florian, a passionate and dedicated individual with a love for problem-solving and a strong interest in technology, that's why I decided to study programming with <a href="https://oclock.io/" target="_blank">O'Clock</a>. I'm currently seeking a 2 to 6 month internship opportunity in the tech industry to enhance my skills and contribute to a company that values growth and learning. Joining a team that fosters a supportive and collaborative environment, where I can gain hands-on experience and further develop my abilities, would be a dream come true. :handshake:
+I'm Florian, a passionate and dedicated individual with a love for problem-solving and a strong interest in technology, that's why I decided to study programming.
 
 <br>
 
